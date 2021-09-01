@@ -1,2 +1,5 @@
 # Analise-Sentimental
-Estudando e eestando LeIA e  algoritmo de análise sentimental.
+Estudando e testando LeIA e  algoritmo de análise sentimental.
+
+
+<a href"https://github.com/rafjaa/LeIA">LeIA</a>
